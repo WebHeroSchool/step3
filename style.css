@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: Montserrat;
+  font-family: Montserrat, sans-serif;
 }
 
 .collection__img-mob {
@@ -23,7 +23,7 @@ body {
   letter-spacing: 3px;
   margin: 6px 52px;
   z-index: 2;
-  color: #FFF;
+  color: #fff;
 }
 
 .header__menu {
@@ -50,7 +50,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
-  color: #FFF;
+  color: #fff;
   z-index: 2;
 }
 
@@ -76,7 +76,7 @@ body {
 .first__sidebar-social {
   display: flex;
   justify-content: space-between;
-  width:  155px;
+  width: 155px;
   padding: 816px 51px 0;
 }
 
@@ -125,7 +125,7 @@ body {
   font-weight: normal;
   font-size: 15px;
   line-height: 21px;
-  letter-spacing: 0.5px;
+  letter-spacing: .5px;
   margin-bottom: 52px;
 }
 
@@ -144,9 +144,9 @@ body {
   text-decoration: none;
   color: black;
   font-size: 13px;
-  letter-spacing: 0px;
+  letter-spacing: 0;
   margin-right: 14px;
-} 
+}
 
 .collection__scroll {
   position: absolute;
@@ -154,7 +154,7 @@ body {
   height: 46px;
   left: 49%;
   top: 815px;
-  border: 2px solid #000000;
+  border: 2px solid #000;
   box-sizing: border-box;
   border-radius: 15px;
 }
@@ -165,14 +165,14 @@ body {
   height: 8.21px;
 	left: 50%;
 	top: 826.5px;
-	background: #000000;
+	background: #000;
 	border-radius: 19px;
 }
 
 .collection__next-text:hover,
 .collection__other-text:hover {
-	opacity: 0.5;
-	transition: 1s ease-out 0.2s;
+	opacity: .5;
+	transition: 1s ease-out .2s;
 }
 
 .vectormob  {
