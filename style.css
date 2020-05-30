@@ -6,7 +6,6 @@ body {
 .collection__img-mob {
   display: none;
 }
-
 .header {
   position: absolute;
   z-index: 3;
