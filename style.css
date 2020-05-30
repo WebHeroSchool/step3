@@ -259,12 +259,12 @@ body {
     font-size: 11px;
     padding: 10px 27px;
     margin-right: 43px;
-    letter-spacing: 0px;
+    letter-spacing: 0;
   }
 
   .collection__other-text {
     font-size: 11px;
-    letter-spacing: 0px;
+    letter-spacing: 0;
     margin-right: 15px;
   }
 
@@ -284,8 +284,8 @@ body {
     top: 659.5px;
   }
 
-  .first__sidebar-social-inst, 
-  .first__sidebar-social-vk, 
+  .first__sidebar-social-inst,
+  .first__sidebar-social-vk,
   .first__sidebar-social-fb {
     width: 35px;
     height: 35px;
@@ -394,7 +394,7 @@ body {
   }
 
   .collection__scroll {
-   width: 17px;
+    width: 17px;
     height: 28px;
     left: 46.5%;
     top: 489px;
@@ -405,8 +405,8 @@ body {
     width: 2px;
   }
 
-  .first__sidebar-social-inst, 
-  .first__sidebar-social-vk, 
+  .first__sidebar-social-inst,
+  .first__sidebar-social-vk,
   .first__sidebar-social-fb {
    	width: 25px;
     height: 25px;
@@ -426,10 +426,10 @@ body {
   }
 
   .first-container {
-  padding: 339px 0;
-  background: url(img/pete-bellis-432867-unsplashmob.png) no-repeat;
-  background-size: 750px;
-  background-position: center;
+    padding: 339px 0;
+    background: url(img/pete-bellis-432867-unsplashmob.png) no-repeat;
+    background-size: 750px;
+    background-position: center;
   }
 
   .header__inner {
@@ -440,7 +440,7 @@ body {
   }
 
   .header__menu {
-    background: #EDEDED;
+    background: #ededed;
     z-index: 3;
     height: 140px;
     width: 140px;
@@ -498,7 +498,7 @@ body {
 }
 
 @media (max-width: 660px) {
-	.first-container {
+  .first-container {
     padding: 267px 0;
     background: url(img/pete-bellis-432867-unsplashmob.png) no-repeat;
     background-size: 660px;
@@ -703,7 +703,7 @@ body {
 
   .header__menu {
     background: #EDEDED;
-	  z-index: 3;
+    z-index: 3;
     height: 80px;
     width: 80px;
   }
@@ -772,7 +772,7 @@ body {
 
   .header__menu-item {
     height: 4px;
-     width: 27.7px;
+    width: 27.7px;
     margin-bottom: 7px;
   }
 
@@ -781,7 +781,7 @@ body {
   }
 
   .header__logo p {
-    margin: 10px 0px;
+    margin: 10px 0;
     color: black;
     font-size: 28px;
     letter-spacing: 2px;
