@@ -399,7 +399,7 @@ body {
     left: 46.5%;
     top: 489px;
   }
-  
+
   .collection__scroll-elem {
     left: 47.3%;
     top: 494.5px;
@@ -420,9 +420,17 @@ body {
 }
 
 @media (max-width: 750px) {
-  .header__language, .header__vector, .first__sidebar, .first__collection,
-  .collection__scroll, .collection__scroll-elem, .img__img, .text__subtitle,
-  .collection__next-text, .collection__other-text, .collection__vector{
+  .header__language,
+  .header__vector,
+  .first__sidebar,
+  .first__collection,
+  .collection__scroll,
+  .collection__scroll-elem,
+  .img__img,
+  .text__subtitle,
+  .collection__next-text,
+  .collection__other-text,
+  .collection__vector{
     display: none;
   }
 
