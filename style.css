@@ -409,7 +409,7 @@ body {
   .first__sidebar-social-inst,
   .first__sidebar-social-vk,
   .first__sidebar-social-fb {
-   	width: 25px;
+    width: 25px;
     height: 25px;
   }
 
@@ -430,7 +430,7 @@ body {
   .text__subtitle,
   .collection__next-text,
   .collection__other-text,
-  .collection__vector{
+  .collection__vector {
     display: none;
   }
 
@@ -522,7 +522,7 @@ body {
   }
 
   .header__menu {
-    background: #EDEDED;
+    background: #ededed;
     z-index: 3;
     height: 123px;
     width: 123px;
@@ -812,6 +812,7 @@ body {
     padding-left: 28px;
     letter-spacing: 2px;
   }
+  
   .vectormob {
     position: absolute;
     width: 38px;
