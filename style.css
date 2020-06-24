@@ -585,7 +585,7 @@ body {
   }
 
   .header__menu {
-    background: #EDEDED;
+    background: #ededed;
     z-index: 3;
     height: 104px;
     width: 104px;
@@ -648,7 +648,7 @@ body {
   }
 
   .header__menu {
-    background: #EDEDED;
+    background: #ededed;
     z-index: 3;
     height: 89px;
     width: 89px;
@@ -711,7 +711,7 @@ body {
   }
 
   .header__menu {
-    background: #EDEDED;
+    background: #ededed;
     z-index: 3;
     height: 80px;
     width: 80px;
@@ -773,7 +773,7 @@ body {
   }
 
   .header__menu {
-    background: #EDEDED;
+    background: #ededed;
     z-index: 3;
     height: 65px;
     width: 65px;
@@ -812,7 +812,7 @@ body {
     padding-left: 28px;
     letter-spacing: 2px;
   }
-  
+
   .vectormob {
     position: absolute;
     width: 38px;
