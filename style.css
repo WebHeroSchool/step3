@@ -1,6 +1,7 @@
 body {
   margin: 0;
   font-family: Montserrat, sans-serif;
+  font-size: 80px;
 }
 
 .collection__img-mob {
@@ -435,7 +436,7 @@ body {
   }
 
   .first-container {
-    padding: 339px 0;
+    padding: 313px 0;
     background: url(img/pete-bellis-432867-unsplashmob.png) no-repeat;
     background-size: 750px;
     background-position: center;
@@ -470,8 +471,7 @@ body {
 
   .text__title {
     position: inherit;
-    align-items: flex-end;
-    font-size: 98px;
+    font-size: 14vw;
     line-height: 103px;
     padding-left: 52px;
     letter-spacing: 5px;
@@ -500,12 +500,12 @@ body {
     position: absolute;
     width: 67px;
     height: 39px;
-    left: 345px;
+    left: 50%;
     top: 1016px;
     display: block;
   }
 }
-
+/*
 @media (max-width: 660px) {
   .first-container {
     padding: 267px 0;
@@ -552,7 +552,6 @@ body {
 
   .text__title {
     position: inherit;
-    align-items: flex-end;
     font-size: 86px;
     line-height: 92px;
     padding-left: 52px;
@@ -568,10 +567,10 @@ body {
     display: block;
   }
 }
-
+*/
 @media (max-width: 565px) {
   .first-container {
-    padding: 189px 0;
+    padding: 169px 0;
     background: url(img/pete-bellis-432867-unsplashmob.png) no-repeat;
     background-size: 565px;
     background-position: center;
@@ -616,7 +615,7 @@ body {
   .text__title {
     position: inherit;
     align-items: flex-end;
-    font-size: 73px;
+    font-size: 14vw;
     line-height: 80px;
     padding-left: 43px;
     letter-spacing: 3px;
@@ -631,7 +630,7 @@ body {
     display: block;
   }
 }
-
+/*
 @media (max-width: 490px) {
   .first-container {
     padding: 127px 0;
@@ -678,8 +677,7 @@ body {
 
   .text__title {
     position: inherit;
-    align-items: flex-end;
-    font-size: 63px;
+    font-size: 8vw;
     line-height: 67px;
     padding-left: 36px;
     letter-spacing: 3px;
@@ -694,10 +692,10 @@ body {
     display: block;
   }
 }
-
+*/
 @media (max-width: 422px) {
   .first-container {
-    padding: 71px 0;
+    padding: 58px 0;
     background: url(img/pete-bellis-432867-unsplashmob.png) no-repeat;
     background-size: 422px;
     background-position: center;
@@ -741,7 +739,7 @@ body {
   .text__title {
     position: inherit;
     align-items: flex-end;
-    font-size: 55px;
+    font-size: 14vw;
     line-height: 57px;
     padding-left: 36px;
     letter-spacing: 1px;
@@ -806,8 +804,7 @@ body {
 
   .text__title {
     position: inherit;
-    align-items: flex-end;
-    font-size: 46px;
+    font-size: 14vw;
     line-height: 49px;
     padding-left: 28px;
     letter-spacing: 2px;
