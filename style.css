@@ -635,12 +635,12 @@ h1 {
     margin-left: 47px;
   }
 
-  .third-count:before {
+  .third-count::before {
     content: '-';
     margin-right: 19px;
   }
 
-  .third-count:after {
+  .third-count::after {
     content: '+';
     margin-left: 19px;
   }
